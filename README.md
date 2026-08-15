@@ -55,5 +55,5 @@ A full-stack web platform connecting users with homemade food providers, featuri
 
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+   Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
