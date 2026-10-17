@@ -20,20 +20,7 @@
 
 </div>
 
-## 💼 Experience
 
-### Frontend Intern · [sapmenc](https://github.com/sapmenc)
-Built the **Finance section UI** for **PortalOne's** admin dashboard (frontend).
-
-- **Finance navigation** — pill tab bar (Overview, Bank Statements, Audited Statements, Payment Receipts, Payment Reminders, Bank Accounts) wired into the existing dashboard
-- **Bank Statements page** — Recent Uploads card, Account / Year / Month filter dropdowns with a custom calendar icon and arrow-key scrolling, a document table with view / download actions, and pagination
-- **Upload Statement modal** — built pixel-accurate to Figma (988 × 622): bank account picker, year / month / date wheel pickers (mouse wheel, click and drag), and a drag-and-drop upload zone with file cards and a hover-to-delete action
-- **PDF preview** — "View" opens a modal that renders the statement in an embedded viewer
-- **Code review** — shipped fixes from senior review feedback (heading alignment, upload component, multi-value drag)
-- **Git workflow** — opened two PRs and resolved a merge conflict with a teammate's backend code without losing any of their changes
-- **Debugging** — found and reported an UploadThing × Next.js 16 Turbopack build bug, with a working workaround (`pnpm exec next dev --webpack`)
-
-`Next.js` `React` `Figma` `pnpm` `UploadThing` `Git`
 
 ## 🚀 Featured builds
 
