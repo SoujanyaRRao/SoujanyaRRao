@@ -39,7 +39,7 @@ Built the **Finance section UI** for **PortalOne's** admin dashboard (frontend).
 
 | Project | What it is | Stack |
 |:---|:---|:---|
-
+| **HomeFeast** *(in progress)* | Full-stack platform connecting people with homemade tiffin & food providers — auth, ordering, order management | `React` `Node.js` `Express` `MongoDB` `Tailwind` |
 | [**Secure API Monitoring System**](https://github.com/SoujanyaRRao/api-monitoring-system) | Monitors registered API endpoints with scheduled health checks, response times, uptime % and failure history on a dashboard — secured with JWT, per-user data isolation, rate limiting and SSRF protection | `Java 17` `Spring Boot` `Spring Security` `MySQL` `React` |
 | [**FiberLens AI**](https://github.com/SoujanyaRRao/FiberLens-AI-Final) | Scans clothing care labels with AI vision to read fabric composition, estimate microplastic-shedding risk and give a sustainability score | `Python` `Gemini API` `Computer Vision` |
 | [**GoFood — Food Delivery App**](https://github.com/SoujanyaRRao/Food-Delivery-System) | MERN food delivery app: JWT login, category browsing with search, cart and order history | `React` `Node.js` `Express` `MongoDB` |
